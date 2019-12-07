@@ -10,7 +10,7 @@ border: 1px solid #ced4da;
 margin: 10% auto 0;
 }
 .radio-btn{
-  margin: 0 20px;
+  margin: 0 10px;
 
 }
 .radio-btn .btn{
@@ -48,7 +48,7 @@ margin: 10% auto 0;
   margin-bottom: 5px;
   margin-top: 10px;
   font-size: 12px;
-  color: black;
+  color: #fff;
 }
 input::placeholder{
   color: black;
@@ -109,7 +109,7 @@ input::placeholder{
   font-size: 18px;
   margin-top: 6px;
 }
-.btn{
+#.btn{
   display: inline-block;
   background: #9b59b6;
   padding: 14px 0;
